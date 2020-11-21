@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+form label{
+  margin: 20%;
+  padding: 10px
+}
+form input{
+  margin: 60%;
+  padding: 10px;
+
+}
+.cotent--input{
+  height: 70px
+}
+ul{
+  list-style-type: none;
+
+}
+.post--item{
+  padding: 50px;
+  background-color: gray;
+  border-radius: 20px
+}
+.submit--button{
+  margin: 20px;
+  padding: 10px;
+  color: blue;
+
+}
